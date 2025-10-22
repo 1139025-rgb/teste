@@ -1,4 +1,4 @@
-#Biblioteca interativa para cadastros de clientes e livros
+#********************************************* Biblioteca interativa para cadastros de clientes e livros *********************************************************
 #perguntar ao usuario se já tem cadastro
 #se sim, pedir login e senha
 #se não, pedir para criar um novo cadastro
